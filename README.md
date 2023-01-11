@@ -8,6 +8,10 @@ This application is a Company Employee Information Content Managment System (CMS
 
 
 
+https://user-images.githubusercontent.com/113379247/211874559-31d13b45-a762-4a2e-84f9-5c4b79782810.mp4
+
+
+
 ## Usage
 
 * Install npm
